@@ -1,0 +1,6 @@
+{
+  "name": "Product Card Generator",
+  "description": "Create a professional pharmaceutical product catalogue directly from Excel with automatic dosage form detection, composition grouping, and print-ready A4 PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
